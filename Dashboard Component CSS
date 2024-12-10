@@ -1,0 +1,15 @@
+/* dashboard.component.css */
+.dashboard-card {
+  margin: 20px;
+}
+
+.charts-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.chart {
+  width: 45%;
+  height: 300px;
+}
